@@ -12,8 +12,10 @@ Built with Flutter for the frontend, Spring Boot for the backend, and MySQL as t
 🖼️ Screenshots
 Here are some screenshots of the app:
 🏠 Home Page
+
 <img src="assets/images/WhatsApp Image 2025-09-30 à 20.53.31_294e32b9.jpg" width="30%" /><br /> <br />
 
 📅 Booking Page
+<img src="assets/images/WhatsApp Image 2025-09-30 à 20.53.31_397572da.jpg" width="30%" /><br /> <br />
 
 👨‍🔧 Admin Dashboard
