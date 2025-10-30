@@ -23,3 +23,7 @@ Here are some screenshots of the app:
 
 <img src="assets/images/Screenshot 2025-09-30 213239.png" width="30%" /><br /> <br />
 
+📅 Bookings
+
+<img src="assets/images/WhatsApp Image 2025-09-30 à 20.53.32_1bcd1053.jpg" width="30%" /><br /> <br />
+
