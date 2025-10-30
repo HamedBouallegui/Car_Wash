@@ -16,6 +16,10 @@ Here are some screenshots of the app:
 <img src="assets/images/WhatsApp Image 2025-09-30 à 20.53.31_294e32b9.jpg" width="30%" /><br /> <br />
 
 📅 Booking Page
+
 <img src="assets/images/WhatsApp Image 2025-09-30 à 20.53.31_397572da.jpg" width="30%" /><br /> <br />
 
 👨‍🔧 Admin Dashboard
+
+<img src="assets/images/Screenshot 2025-09-30 213239.png" width="30%" /><br /> <br />
+
