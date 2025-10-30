@@ -1,16 +1,19 @@
-# carwash
+🚗 CarWash App
+A mobile application for managing car wash bookings easily and efficiently.
+Built with Flutter for the frontend, Spring Boot for the backend, and MySQL as the database.
 
-A new Flutter project.
+✨ Features
+🧽 Book a car wash appointment
+📅 View and manage your bookings
+🏪 See available car wash centers
+💰 Manage payments and pricing
+👨‍🔧 Admin panel for managing clients and staff
 
-## Getting Started
+🖼️ Screenshots
+Here are some screenshots of the app:
+🏠 Home Page
+<img src="assets/images/WhatsApp Image 2025-09-30 à 20.53.31_294e32b9.jpg" width="30%" /><br /> <br />
 
-This project is a starting point for a Flutter application.
+📅 Booking Page
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+👨‍🔧 Admin Dashboard
